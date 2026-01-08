@@ -1,0 +1,79 @@
+.Early-access{
+    padding:2px 120px 120px 120px;
+    background-color: #FFFFFF;
+}
+.Early{
+    background-color: #F7F6F2;
+    padding: 80px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:24px;
+}
+.Early h1{
+    font-size:40px;
+    font-weight: 700;
+    text-align: center;
+    color:#001931;
+    margin-bottom: 16px;
+}
+.Early p{
+    font-size:16px;
+    text-align: center;
+    line-height: 24px;
+    color:#627382;
+    margin-bottom: 24px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.btn-i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:16px;
+    background: #30B868;
+    padding:16px 12px;
+    cursor:pointer;
+    border-radius: 10px;
+    width: 250px;
+    border:none;
+     font-size: 16px;
+    font-weight: 600;
+     color:#FFFFFF;
+     
+}
+.btn-i p{
+    margin: 0px;
+    text-align: center;
+    color:white;
+}
+.btn-i img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-i:hover{
+    background: rgba(145, 125, 125, 0.801);
+}
+.last-button{
+    display: flex;
+    gap:16px;
+   align-items: center;
+    text-align: center;
+    color:#627382
+}
+.last-button p{
+    margin: 0px;
+}
+.doted{
+    height: 10px;
+    width: 10px;
+    background-color: #30B868;
+    border-radius: 50%;
+}
