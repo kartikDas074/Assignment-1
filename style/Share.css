@@ -16,3 +16,10 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
+.Token{
+    display: flex;
+    gap:6px;
+    font-size: 16px;
+    line-height: 20px;
+    color:blue;
+}
