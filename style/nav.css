@@ -1,0 +1,17 @@
+#content{
+    margin: 16px 120px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#content ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:32px;
+    list-style-type: none;
+}
+#content ul li a{
+    text-decoration: none;
+    color:#000000;
+}
