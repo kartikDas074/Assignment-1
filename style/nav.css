@@ -11,6 +11,9 @@
     gap:32px;
     list-style-type: none;
 }
+#content ul li a:hover{
+    color:blue;
+}
 #content ul li a{
     text-decoration: none;
     color:#000000;
