@@ -5,7 +5,11 @@
     color:#FFFFFF;
     padding:16px 12px;
     border: none;
+    cursor:pointer;
     border-radius: 5px;
+}
+.btn:hover{
+    background: rgba(145, 125, 125, 0.801);
 }
 
 .inter{

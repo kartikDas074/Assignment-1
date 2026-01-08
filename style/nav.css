@@ -15,3 +15,6 @@
     text-decoration: none;
     color:#000000;
 }
+#content button:hover{
+    background: rgba(145, 125, 125, 0.801);
+}
